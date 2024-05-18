@@ -1,6 +1,7 @@
 ### Hi there! I'm Ana Carolina Konradt👋
 
-I'm a Computer Engineering student based on Federal University of Pelotas. 👩‍💻🎓 
+I'm a Computer Engineering student based in Federal University of Pelotas (UFPel). 👩‍💻🎓🇧🇷 
+
 
 [![LinkedIn](https://github.com/carolkonradt/carolkonradt/assets/92766029/9bce9fc8-fe67-4c01-a502-6a9b5055147d)](https://www.linkedin.com/in/acarolinakonradt/)
 
